@@ -1,0 +1,12 @@
+schema=1
+channel=stable
+version=0.2.0
+build=26742
+mandatory=1
+minimumLauncherVersion=0.2.0
+requiredNetworkAbi=0x0B4
+packageUrl=https://github.com/ii3zz/pulserp-client-updates/releases/download/v0.2.0/PulseRP-Update-0.2.0.zip
+packageSize=184628649
+packageSha256=1c349c4810de337650fb03baf6057cd2ab593f904a5f55489f79b97b92d0b9b0
+serverAddress=127.0.0.1:22004
+releaseNotesUrl=https://github.com/ii3zz/pulserp-client-updates/releases/tag/v0.2.0
