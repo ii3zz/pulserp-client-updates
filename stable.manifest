@@ -8,5 +8,5 @@ requiredNetworkAbi=0x0B4
 packageUrl=https://github.com/ii3zz/pulserp-client-updates/releases/download/v0.2.2/PulseRP-Update-0.2.2.zip
 packageSize=184642759
 packageSha256=147094bad866eca68a36c896b1c68dc435ed97050fcaa2e280568f1a991b8235
-serverAddress=127.0.0.1:22004
+serverAddress=192.168.33.14:22004
 releaseNotesUrl=https://github.com/ii3zz/pulserp-client-updates/releases/tag/v0.2.2
