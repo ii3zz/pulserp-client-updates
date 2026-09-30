@@ -8,5 +8,5 @@ requiredNetworkAbi=0x0B4
 packageUrl=https://github.com/ii3zz/pulserp-client-updates/releases/download/v0.3.11/PulseRP-Update-0.3.11.zip
 packageSize=190389250
 packageSha256=9b1b35a26614c79a11018150ae9e7a986e9d5652af5e55b24d369431acffa735
-serverAddress=127.0.0.1:22003
+serverAddress=192.168.33.13:22003
 releaseNotesUrl=https://github.com/ii3zz/pulserp-client-updates/releases/tag/v0.3.11
